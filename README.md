@@ -12,9 +12,9 @@ Each problem is organized as follows:
 │   ├── README.md            # Problem description and approach
 │   └── Problem-Name.js      # JavaScript solution code
 ```
-1.**Problem-Name/** - Folder named after each LeetCode problem.  
-2.**README.md** - Contains a description of the problem and an outline of the approach used in the solution.  
-3.**Problem-Name.js** - The JavaScript file with the actual code solution, named after the problem.
+1. **Problem-Name/** - Folder named after each LeetCode problem.  
+2. **README.md** - Contains a description of the problem and an outline of the approach used in the solution.  
+3. **Problem-Name.js** - The JavaScript file with the actual code solution, named after the problem.
 
 
 ## 🚩 Features
