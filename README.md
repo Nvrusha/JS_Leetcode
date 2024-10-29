@@ -19,7 +19,6 @@ Each problem is organized as follows:
 
 ## 🚩 Features
 
-- **Detailed Explanations**: Every problem folder includes a README explaining the solution approach 📝.
 - **Well-structured Code**: Each solution is optimized for readability and performance 🖥️.
 - **Continuously Updated**: New solutions are added regularly as I progress through LeetCode challenges 💪.
 
