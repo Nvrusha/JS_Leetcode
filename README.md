@@ -15,6 +15,7 @@ Each problem is organized as follows:
 **Problem-Name/** - Folder named after each LeetCode problem.  
 **README.md** - Contains a description of the problem and an outline of the approach used in the solution.  
 **Problem-Name.js** - The JavaScript file with the actual code solution, named after the problem.
+```
 
 ## 🚩 Features
 
@@ -28,6 +29,7 @@ To clone this repository and browse through solutions, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/leetcode-javascript.git
+```
 
 ## 🌟 Show Your Support
 Feel free to star ⭐ this repository if you find the solutions helpful or if they inspire you on your coding journey!
